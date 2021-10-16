@@ -26,11 +26,11 @@ Consolidated the style sheet
 
 **Website Layout**
 
-![Horiseon website layout](assets/images/Horiseon_webpage.png)
+![Professional Portfolio Layout](assets/images/screenshot-kimberlyamaya.github.io-2021.10.15-18_32_31.png)
 
 **Website Link**
 
-https://kimberlyamaya.github.io/Horiseon-Refactor/
+https://kimberlyamaya.github.io/Professional-Portfolio/
 
 **Editors**
 
